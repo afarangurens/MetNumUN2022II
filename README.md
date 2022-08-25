@@ -1,2 +1,2 @@
 # MetNumUN2022II
-Métodos Numéricos UNAL
+Andrés Fernando Aranguren Silva
